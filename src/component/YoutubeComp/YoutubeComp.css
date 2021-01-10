@@ -1,0 +1,29 @@
+.youtube-wrapper {
+    width: 250px;
+    padding: 25px;
+}
+
+.img-thumb img {
+    width: 100%;
+    height: auto;
+}
+
+.time {
+    position: absolute;
+    top: 17%;
+    left: 16%;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 18px;
+}
+
+.desc {
+    font-size: 14px;
+    color: grey;
+    margin-top: -10px;
+}
